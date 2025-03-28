@@ -1,0 +1,23 @@
+# Entorno virtual de Python
+venv/
+env/
+*.pyc
+__pycache__/
+db.sqlite3
+instance/
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de caché y migraciones innecesarias
+*.pyc
+*.pyo
+__pycache__/
+migrations/*
+
+# Archivos de entorno y claves secretas
+.env
+*.pem
