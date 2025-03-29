@@ -5,7 +5,7 @@ const products = [
       description: "Apple smartphone with A16 Bionic chip and ProMotion display.",
       brand: "Apple",
       price: 999.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://www.clevercel.co/cdn/shop/files/Portadas_iPhone14Pro.webp?v=1742575616",
       category: "SmartPhone",
     },
     {
@@ -14,7 +14,7 @@ const products = [
       description: "Flagship smartphone with 200MP camera and Snapdragon 8 Gen 2.",
       brand: "Samsung",
       price: 1199.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://www.clevercel.co/cdn/shop/files/Portadas_SamsungS23Ultra.webp?v=1742575624",
       category: "SmartPhone",
     },
     {
@@ -23,7 +23,7 @@ const products = [
       description: "AI-powered smartphone with the best camera experience.",
       brand: "Google",
       price: 899.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-0a1YDKzgId8zXs5Czac4KKAIovLMe4Dwg&s",
       category: "SmartPhone",
     },
     {
@@ -32,7 +32,7 @@ const products = [
       description: "Ultra-thin laptop with Apple's M2 chip and Retina display.",
       brand: "Apple",
       price: 1299.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://mac-center.com/cdn/shop/files/IMG-5577502_c763c0ea-b25c-44c5-b2de-cc4eec87b28a.jpg?v=1730306501&width=823",
       category: "Laptops",
     },
     {
@@ -41,7 +41,7 @@ const products = [
       description: "Premium laptop with 4K OLED display and Intel i7 processor.",
       brand: "Dell",
       price: 1499.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHVK43ySXTD4wY7HG8cZskyAFOzRXWJkIsg&s",
       category: "Laptops",
     },
     {
@@ -50,7 +50,7 @@ const products = [
       description: "Gaming laptop with Ryzen 9 and RTX 4060 GPU.",
       brand: "Asus",
       price: 1699.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://dlcdnwebimgs.asus.com/gain/F1D8D269-0D93-4EA2-9402-E264A0FB1000",
       category: "Laptops",
     },
     {
@@ -59,7 +59,7 @@ const products = [
       description: "High-end tablet with S Pen support and AMOLED display.",
       brand: "Samsung",
       price: 749.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://vivelaera.com/wp-content/uploads/2022/09/GALAXY-TAB-S8-04.jpg",
       category: "Tablets",
     },
     {
@@ -68,7 +68,7 @@ const products = [
       description: "Powerful tablet with Apple M2 chip and Liquid Retina display.",
       brand: "Apple",
       price: 1099.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://cdnx.jumpseller.com/tiquemobile/image/35509651/resize/610/610?1684755346",
       category: "Tablets",
     },
     {
@@ -77,7 +77,7 @@ const products = [
       description: "2-in-1 tablet-laptop with detachable keyboard.",
       brand: "Microsoft",
       price: 999.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Create-and-collaborate-bg-image-RE50pyT?fmt=png-alpha&scl=1",
       category: "Tablets",
     },
     {
@@ -86,7 +86,7 @@ const products = [
       description: "Premium Android tablet with 2K display and stylus support.",
       brand: "Lenovo",
       price: 649.99,
-      imageUrl: "https://via.placeholder.com/150",
+      imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_690089-CBT81416738746_122024-T.webp",
       category: "Tablets",
     },
   ];
